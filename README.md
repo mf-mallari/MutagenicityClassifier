@@ -13,6 +13,7 @@ This project is focused on predicting mutagenicity using machine learning and ch
 ### Phase 2 - CDK Fingerprints
 - Fully accessible through **Google Colab**: [Phase 2 Colab Link](https://colab.research.google.com/drive/1A98ukUjOxOOz_yY34ZF2Sqz9LKuQRqq8?usp=sharing).
 - Uses **PaDEL-Py**, a Java-based software requiring additional setup for local use. Google Colab eliminates the need for Java installation, making the project more accessible.
+- Phase 2 is not currently available for download, however, feel free to download the notebook directly from the Google Colab link. Additional software will be required. 
 
 ---
 
